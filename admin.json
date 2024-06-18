@@ -1,0 +1,11 @@
+[
+    {
+        "admin_id":"admin001",
+        "password":"vaccine_001"
+    },
+    {
+        "admin_id":"admin002",
+        "password":"covid-19-admin"
+
+    }
+]
